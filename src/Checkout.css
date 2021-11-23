@@ -1,0 +1,26 @@
+.checkout{
+    display: flex;
+    background-color: #ffffff;
+    padding: 18px;
+    height: max-content;
+    margin: 25px;
+    /* align-items: center;
+    justify-content: space-between; */
+}
+.checkout__right{
+    width: 25%;
+    float: right;
+}
+.checkout__left{
+    overflow: hidden;
+    zoom: 1;
+    width: 70%;
+    float: none;
+    padding-right: 20px;
+    min-height: 1px;
+}
+.checkout__title{
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 36px;
+}
